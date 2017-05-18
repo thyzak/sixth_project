@@ -1,0 +1,129 @@
+body {
+	background-color: #ece0bd;
+}
+.center {
+
+}
+
+.left-float {
+	display: inline-block;
+	float: left;
+	width: 50%;
+}
+
+.right-float {
+	display: inline-block;
+	float: right;
+	width: 50%;
+}
+
+#monks-cafe {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+input {
+	float: right;
+}
+
+h1 {
+	font-size: 3em;
+    font-family: "Univers", sans-serif;
+	text-align: center;
+	color: #3a3b34;
+	margin: 30px;
+}
+
+h2 {
+	font-size: 2em;
+	font-family: "Univers", sans-serif;
+	text-align: center;
+	color: #5c3448;
+}
+
+h4 {
+	font-size: 1.5em;
+	font-family: "Univers", sans-serif;
+	text-align: center;
+	margin: 10px;
+	color: #5c3448;
+}
+
+p {
+	font-family: "Univers", sans-serif;
+	color: #20457d;
+}
+
+label {
+	font-size: 1.4em;
+	font-family: "Univers", sans-serif;
+	color: #20457d;
+}
+
+button {
+	color: #20457d;
+}
+
+th {
+	font-size: 1.4em;
+	font-family: "Univers", sans-serif;
+	color: #20457d;
+}
+
+td {
+	color: #20457d;
+}
+
+#make-res {
+	float: left;
+	clear: left;
+	border: 1px solid #fc654b;
+	width: 45%;
+	margin: auto;
+	padding: 10px;
+}
+
+#res-form {
+	clear: both;
+	position: relative;
+}
+
+#existing-res {
+	float: right;
+	clear: right;
+	width: 45%;
+	border: 1px solid #fc654b;
+	margin: auto;
+	padding: 10px;
+}
+
+table {
+	width: 100%;
+	text-align: left;
+}
+
+#dine {
+	margin: 10px 0px;
+	clear: both;
+}
+
+#map {
+	margin: auto;
+	width: 50%;
+	height: 300px;
+}
+
+#review-section {
+	float: left;
+}
+
+#jerry {
+	display: block;
+	width: 75%;
+	margin: auto;
+}
+
+#reviews h2 {
+	margin: 10px;
+}
